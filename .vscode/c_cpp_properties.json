@@ -1,0 +1,19 @@
+{
+    "configurations": [
+           {
+    "name": "Linux",
+    "includePath": [
+        "${workspaceFolder}/**",
+        "/home/zerz/miniconda3/envs/py36/lib/python3.6/site-packages/torch/include/",
+        "/home/zerz/miniconda3/envs/py36/lib/python3.6/site-packages/torch/include/torch/csrc/api/include/",
+        "/home/zerz/miniconda3/envs/py36/include/python3.6m"
+    ],
+    "defines": [],
+    "compilerPath": "/usr/local/cuda/bin/nvcc",
+    "cStandard": "c11",
+    "cppStandard": "c++17",
+    "intelliSenseMode": "linux-gcc-x64"
+           }
+       ],
+    "version": 4
+   }
